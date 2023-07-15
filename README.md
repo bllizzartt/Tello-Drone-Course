@@ -32,12 +32,12 @@
 <div align="center">
     <img src="https://github.com/bllizzartt/c-jam/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
 
-<h3 align="center">C Jam</h3>
+<h3 align="center">Tell-Drone-Course</h3>
 
   <p align="center">
-    This project was a group collaboritive project involving the use of Unity, Arduino IDE, 3D printing, and Servo motors to create an interactive robot.
+    This project is for object detection training and tracking with the use of the TELLO drone
     <br />
-    <a href="https://github.com/bllizzartt/c-jam"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bllizzartt/Tello-Drone-Course"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <!-- <a href="https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam.mp4">View Demo</a>
@@ -91,8 +91,7 @@
 
 ### Built With
 
-* Unity 
-* C++
+* Python
 
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -112,14 +111,16 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Here is how we created our project 
+1. Open PyCharm
+2. Start a new project
+3. Create it in a venv (virtual environment) with Python 3.8
 
 ### Prerequisites
 
-* Unity installed
-* Arduino IDE installed 
-* 4 servo motors
-* 4 3D printed servo sleeves
+* Download Python 3.8 at https://www.python.org/downloads/release/python-380/
+* Download Pycharm at https://www.jetbrains.com/pycharm/*
+* In the Project Interpreter Tab verify you have cvzone downloaded
+* In the Project Interpreter Tab verify you have cv2 downloaded
 
 ### Installation
 
@@ -145,13 +146,16 @@ Here is how we created our project
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project is for users to interact with our robot C Jam by interacting with it through Unity
+This project can be used to track objects real time with this use of the TELLO drone
 <br />
-Here is C Jam, Enjoy!
+I have preuploaded some images and videos, but upload your own and experiment with your own data
+<br />
 
-![Robot](insert url here)
+Here are some snippets of what you can do, enjoy!
+
+<!-- ![Robot](insert url here)
 ![Hardware](insert url here)
-[![Drone](insert url.jpg here)](insert url.mp4 here)
+[![Drone](insert url.jpg here)](insert url.mp4 here) -->
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -206,9 +210,9 @@ Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzart
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [June Lee]()
-* [Mariana Holtz]()
-* [Aisha]()
+* [June Lee](https://github.com/bibwiggle)
+* [Mariana Holtz](https://github.com/m-holtz)
+* [Aisha Bikebayeva](https://github.com/gamesbyaisha)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
