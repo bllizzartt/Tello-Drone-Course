@@ -210,9 +210,7 @@ Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzart
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [June Lee](https://github.com/bibwiggle)
-* [Mariana Holtz](https://github.com/m-holtz)
-* [Aisha Bikebayeva](https://github.com/gamesbyaisha)
+* [Murtaza's Workshop](https://www.youtube.com/watch?v=LmEcyQnfpDA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
