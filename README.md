@@ -249,3 +249,8 @@ Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzart
 [Python-url]: https://python.org 
 [Pjreddie.org]: https://img.shields.io/badge/yolo-616161?style=for-the-badge&logo=yolo&logoColor=yellow
 [Pjreddie-url]: https://pjreddie.com/darknet/yolo/
+
+
+## Notes
+
+This Project is still active, more to come!
