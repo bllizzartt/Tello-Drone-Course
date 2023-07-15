@@ -35,7 +35,7 @@
 <h3 align="center">Object detection</h3>
 
   <p align="center">
-    This project is a combination of projects that cover webcam, mp4, and img object detection training and tracking
+    This project is for object detection training and tracking with the use of the TELLO drone
     <br />
     <a href="https://github.com/bllizzartt/Object-Detection-Yolo"><strong>Explore the docs »</strong></a>
     <br />
@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Main Picture](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/personpic.png)
+![Main Picture]()
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `bllizzartt`, `Objection-Detection-Yolo`, `haynes2va`, `https://www.linkedin.com/in/chase-haynes/`, `gmail`, `chasecthaynes`, `Object Detection`, `project_description` -->
 
@@ -92,7 +92,7 @@
 ### Built With
 
 * Python 
-* Yolo
+* 
 
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -121,6 +121,7 @@
 * Download Python 3.8 at https://www.python.org/downloads/release/python-380/
 * Download Pycharm at https://www.jetbrains.com/pycharm/*
 * In the Project Interpreter Tab verify you have cvzone downloaded
+* In the Project Interpreter Tab verify you have cv2 downloaded
 
 ### Installation
 
@@ -146,16 +147,16 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project can be used to track objects real time via a webcam or img/mp4
+This project can be used to track objects real time with this use of the TELLO drone 
 <br />
 I have preuploaded some images and videos, but upload your own and experiment with your own data
 <br />
 
 Here are some snippets of what you can do, enjoy!
 
-![Car Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/car-counter.png)
-![People Counter](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Images/people-counter.png)
-[![Webcam](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam-real.mp4)](https://github.com/bllizzartt/Object-Detection-Yolo/blob/main/Demos/webcam-real.mp4)
+![Tello Drone](insert url here)
+![Face Tracking](insert url here)
+[![Drone](insert url here)](insert url here)
 
 
 
